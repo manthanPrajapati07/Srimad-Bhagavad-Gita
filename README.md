@@ -1,5 +1,9 @@
 # Srimad Bhagavad Gita iOS App
 
+## App Demo 
+
+https://youtu.be/b8b5fwlpdp4
+
 This iOS app provides access to chapters of the Srimad Bhagavad Gita in both Hindi and English, featuring chapter images, a skeleton loading view, and data fetching via Alamofire using a generic model.
 
 ## Features
@@ -19,3 +23,5 @@ This iOS app provides access to chapters of the Srimad Bhagavad Gita in both Hin
 The app is structured using the **MVVM (Model-View-ViewModel)** design pattern, separating business logic from the UI to create a more modular, testable codebase.
 
 This focuses primarily on the features you used, including multi-language support, Alamofire with a generic model, and skeleton loading views. You can adjust the repository link and API key details as needed for your project.
+
+
